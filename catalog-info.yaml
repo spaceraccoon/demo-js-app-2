@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo-js-app
+  description: A demo JS app.
+  tags:
+    - demo
+    - ruby
+    - rails
+spec:
+  type: website
+  lifecycle: demo
+  owner: Test
