@@ -7,6 +7,7 @@ metadata:
     - demo
     - ruby
     - rails
+  title: Demo JS App
 spec:
   type: website
   lifecycle: demo
